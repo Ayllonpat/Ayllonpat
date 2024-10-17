@@ -6,8 +6,7 @@
     <title>GitHub Profile</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
-        /* Opcional: estilos para centrar la gráfica */
-        #language-chart {
+      #language-chart {
             max-width: 600px;
             margin: auto;
         }
@@ -36,24 +35,23 @@
         <li><strong>Tools:</strong> Git, GitHub, npm</li>
     </ul>
 
-    <h3>🎮 Hobbies & Interests:</h3>
+<h3>🎮 Hobbies & Interests:</h3>
     <p>Besides coding, I love playing video games 🎮, relaxing with a good book 📚, and enjoying a picnic 🧺 or a coffee ☕ in a cozy café. I find inspiration by blending my passion for technology with these moments of relaxation.</p>
-
     <h3>🚀 Currently working on:</h3>
     <p>Optimizing performance in complex web applications and deepening my knowledge of microservices architecture using Java and Python on the backend.</p>
 
-    <h3>💬 Ask me about:</h3>
+   <h3>💬 Ask me about:</h3>
     <p>Frontend development with Angular/React ⚛️, designing RESTful APIs in Java or Python 🐍, and best practices in fullstack programming 💻.</p>
 
-    <h3>🎯 Future Goals:</h3>
+ <h3>🎯 Future Goals:</h3>
     <p>Focusing on improving my skills in advanced frontend frameworks 📈, deepening my expertise in React and Angular, and learning more about performance optimization techniques 🚀 and user experience 🖥️. I also aim to explore new libraries and frontend design patterns to create more intuitive and accessible interfaces 🎨.</p>
 
-    <h3>🌐 Languages Used:</h3>
+  <h3>🌐 Languages Used:</h3>
     <div id="language-chart" style="width: 100%; height: 400px;">
         <canvas id="myChart"></canvas>
     </div>
 
-    <script>
+ <script>
         const ctx = document.getElementById('myChart').getContext('2d');
         const myChart = new Chart(ctx, {
             type: 'doughnut',
