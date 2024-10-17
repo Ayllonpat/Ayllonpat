@@ -11,7 +11,7 @@
             margin: auto;
         }
     </style>
-</head>
+    </head>
 <body>
     <h2>👋 Hi! I'm Patty</h2>
     <p>I'm a fullstack developer with a strong focus on frontend and experience in backend. I'm passionate about creating efficient and scalable web applications, using HTML, CSS, JavaScript, Angular, React, TypeScript, and Bootstrap on the frontend, as well as Java and Python to develop robust solutions on the backend.</p>
