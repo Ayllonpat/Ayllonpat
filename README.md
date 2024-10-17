@@ -15,8 +15,8 @@
       <li>Languages: Java, Python</li>
       <li>Frameworks: Spring Boot (Java), Django (Python)</li>
       <li>Databases: MySQL, PostgreSQL</li>
-      <li><strong>Tools:</strong> Git, GitHub, npm</li>
     </ul>
+     <li><strong>Tools:</strong> Git, GitHub, npm</li>
   </li>
 </ul>
 
