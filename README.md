@@ -20,7 +20,7 @@
         <li><strong>Backend:</strong>
             <ul>
                 <li>🖥️ Languages: Java, Python</li>
-                <li>⚙️ Frameworks: Spring Boot (Java), Django (Python)</li>
+                <li>⚙️ Frameworks: Spring Boot (Java)
                 <li>📊 Databases: MySQL, PostgreSQL</li>
             </ul>
         </li>
