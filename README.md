@@ -39,8 +39,5 @@
  <h3>🎯 Future Goals:</h3>
     <p>Focusing on improving my skills in advanced frontend frameworks 📈, deepening my expertise in React and Angular, and learning more about performance optimization techniques 🚀 and user experience 🖥️. I also aim to explore new libraries and frontend design patterns to create more intuitive and accessible interfaces 🎨.</p>
 
-<footer style="text-align: center; margin-top: 20px;">
-        <p>👩‍💻 Thanks for visiting my profile! Let's connect and build something amazing together! 🌟</p>
-    </footer>
 </body>
 </html>
