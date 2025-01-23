@@ -12,8 +12,8 @@
     <ul>
         <li><strong>Frontend:</strong>
             <ul>
-                <li>🌐 Languages: HTML, CSS, JavaScript (ES6+), TypeScript</li>
-                <li>🔧 Frameworks & Libraries: Angular, React, Bootstrap</li>
+                <li>🌐 Languages: HTML, CSS, JavaScript, TypeScript</li>
+                <li>🔧 Frameworks & Libraries: Angular, Bootstrap, Flutter</li>
                 <li>🎨 Design: Responsive Design, UI/UX, CSS Grid, Flexbox</li>
             </ul>
         </li>
